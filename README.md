@@ -1,0 +1,3 @@
+### Hi there 👋 My name is Armaan Patankar and I am a current student at Brown University studying Computer Science and Economics. I am specializing in the artificial intelligence and securities track as I found these areas to pique my interest.
+I am currently learning a lot of frontend development techniques as I develop my toolbox of computer skills. I am looking for a mentor to help guide me through some of the new and uncharted territories this field has to offer. I am looking to collaborate
+on any projects anyone is looking for help on! I am quick to learn and quicker to get to action. I hope you enjoy my page!
